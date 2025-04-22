@@ -11,7 +11,7 @@ This is a simple web application that calculates the day of the week you were bo
 - Fully responsive and clean layout
 
 ##  Developer
-**osteen**
+**Osteen**
 
 ##  Technologies Used
 - HTML
